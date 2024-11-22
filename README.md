@@ -50,6 +50,12 @@
 
 ---
 
+## 📚 Últimos artigos no Medium
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Últimos posts no Medium" />
+</div>
+
+---
 
 ### 🚀 Vamos codar juntos!
