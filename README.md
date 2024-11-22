@@ -23,13 +23,13 @@
 ## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-costa-09a39a261/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://discordapp.com/users/seu-discord/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
-  <a href="https://www.instagram.com/seu-instagram/" target="_blank">
+  <a href="https://www.instagram.com/felipe_costa_17/profilecard/?igsh=N3AzNWxmd3QzN2oy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
   <a href="https://t.me/seu-telegram/" target="_blank">
